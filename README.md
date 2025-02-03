@@ -15,6 +15,10 @@ Ejecuta el siguiente comando en la terminal dentro del directorio del proyecto:
 astro dev start
 ```
 
+**Credenciales:**
+**user:** admin
+**password:** admin
+
 ## Descripción
 
 Este DAG de Apache Airflow extrae datos de la API Spaceflight News y los almacena en una base de datos PostgreSQL. Luego, limpia y analiza los datos, realiza verificaciones y actualiza dashboards.
